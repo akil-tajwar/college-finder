@@ -13,11 +13,7 @@ const Navbar = () => {
                     <Link to={'/'}>Home</Link>
                     <Link to={'/colleges'}>Colleges</Link>
                     <Link to={'/admission'}>Admisson</Link>
-                    <Link to={'/mycollege'}>My Collage</Link>
-                </div>
-                <div className='flex gap-3 justify-center items-center'>
-                    <input className='py-1 px-5 rounded' type="text" />
-                    <button className='bg-yellow-500 py-1 px-5 font-semibold rounded'>Search</button>
+                    <Link to={'/mycollege'}>My College</Link>
                 </div>
             </div>
         </div>
