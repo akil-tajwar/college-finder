@@ -1,0 +1,78 @@
+[
+    {
+      "_id": "64bcd695026cd453b3d19b86",
+      "image": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGNvbGxlZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "college_name": "ABC University",
+      "admission_dates": "October 1 - November 30",
+      "events": "Fresher's Welcome, Annual Fest, Sports Day",
+      "research_history": "Established in 1985, known for groundbreaking research in physics.",
+      "sports_details": "Offers various sports facilities including basketball, football, and tennis.",
+      "admission_process": "Admissions based on entrance test and interview.",
+      "event_details": "Fresher's Welcome: Oct 15, Annual Fest: Nov 20, Sports Day: Dec 10",
+      "number_of_research": "Over 100 ongoing research projects.",
+      "research_works": "Recent research on quantum mechanics published in top journals.",
+      "sports_categories": "Athletics, Team Sports, Racquet Sports",
+      "rating": 4
+    },
+    {
+      "_id": "64bcd69562cce19245fe86eb",
+      "image": "https://images.unsplash.com/photo-1592930954854-7d00c87d0cf4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGNvbGxlZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "college_name": "XYZ College",
+      "admission_dates": "August 15 - September 30",
+      "events": "Cultural Fest, Tech Expo, Inter-College Sports Meet",
+      "research_history": "Pioneered research in computer science since 1990.",
+      "sports_details": "Has a well-equipped gymnasium and a swimming pool.",
+      "admission_process": "Merit-based admissions with counseling.",
+      "event_details": "Cultural Fest: Sep 20-22, Tech Expo: Oct 5-7, Sports Meet: Nov 15-17",
+      "number_of_research": "Around 50 research projects currently.",
+      "research_works": "Recent research on AI applications published in reputed journals.",
+      "sports_categories": "Swimming, Gymnastics, Badminton",
+      "rating": 2
+    },
+    {
+      "_id": "64bcd69572cd19ed2def1bdb",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29sbGVnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "college_name": "PQR Institute",
+      "admission_dates": "April 1 - May 31",
+      "events": "Annual Day, Science Fair, Debate Competition",
+      "research_history": "Known for breakthroughs in medical research over the last decade.",
+      "sports_details": "Emphasizes on promoting outdoor sports activities.",
+      "admission_process": "Entrance test followed by group discussion and interview.",
+      "event_details": "Annual Day: May 15, Science Fair: May 25, Debate Comp: Apr 10",
+      "number_of_research": "Over 80 ongoing research projects.",
+      "research_works": "Recent research on cancer treatment received international recognition.",
+      "sports_categories": "Cricket, Soccer, Athletics",
+      "rating": 5
+    },
+    {
+      "_id": "64bcd69533e5ea612a0019fc",
+      "image": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGNvbGxlZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "college_name": "LMN University",
+      "admission_dates": "January 1 - February 28",
+      "events": "Annual Sports Carnival, Literary Fest, Music Night",
+      "research_history": "Leaders in environmental research and sustainability.",
+      "sports_details": "Boasts of a state-of-the-art stadium and track for athletics.",
+      "admission_process": "Merit-based admissions with an optional essay submission.",
+      "event_details": "Sports Carnival: Feb 10-15, Literary Fest: Jan 20-22, Music Night: Feb 5",
+      "number_of_research": "Over 120 ongoing research projects.",
+      "research_works": "Recent research on renewable energy garnered global attention.",
+      "sports_categories": "Track and Field, Football, Table Tennis",
+      "rating": 3
+    },
+    {
+      "_id": "64bcd695e0024879761c30a7",
+      "image": "https://images.unsplash.com/flagged/photo-1554473675-d0904f3cbf38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbGxlZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "college_name": "EFG College",
+      "admission_dates": "June 1 - July 31",
+      "events": "Orientation Week, Dance Fest, Technical Symposium",
+      "research_history": "Known for research contributions in materials science.",
+      "sports_details": "Offers a variety of intramural sports and fitness programs.",
+      "admission_process": "Entrance test and interview for shortlisted candidates.",
+      "event_details": "Orientation Week: Jul 10-15, Dance Fest: Jul 25, Technical Symp: Jun 20-22",
+      "number_of_research": "Around 70 research projects currently.",
+      "research_works": "Recent research on nanomaterials received accolades in conferences.",
+      "sports_categories": "Volleyball, Yoga, Karate",
+      "rating": 4
+    }
+  ]
+  
