@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 
 const Cards = () => {
     const [colleges, setColleges] = useState([]);
@@ -19,11 +20,14 @@ const Cards = () => {
                                 <img className='w-full rounded-t-lg h-full object-cover' src={college.image} alt="" />
                             </div>
                             <div className='px-5 py-2'>
-                                <h2 className='text-3xl font-semibold'>{college.college_name}</h2>
+                                <h2 className='text-3xl font-bold'>{college.college_name}</h2>
                                 <h4 className='text-xl font-semibold pb-5'>Admission date: {college.admission_dates}</h4>
                                 <p>Events: {college.events}</p>
                                 <p>Research history: {college.events}</p>
                                 <p>Sports: {college.events}</p>
+                                <div className='text-right'>
+                                    <Link to={`college/${college._id}`}><button className='my-5 bg-yellow-500 font-semibold text-[#1e1e1e] text-2xl px-3 py-1 rounded-lg'>Details</button></Link>
+                                </div>
                             </div>
                         </div>
                     ))
